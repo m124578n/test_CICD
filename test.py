@@ -1,5 +1,5 @@
-def abc():
-  x=1+1
-  print(x)
+x=0
+y=x+1
   
-print(abc())
+print(y)
+print(x)
