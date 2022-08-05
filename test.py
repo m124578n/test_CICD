@@ -1,7 +1,7 @@
 # pylint : disable=C0103
-x=0
+X=0
 def plus():
-  x=x+1
-  return()
+  X=X+1
+  return(X)
 
 print(plus())
